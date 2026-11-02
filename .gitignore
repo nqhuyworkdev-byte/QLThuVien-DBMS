@@ -1,0 +1,23 @@
+# WordPress
+wp-config.php
+wp-content/cache/
+wp-content/uploads/
+
+# Database
+*.log
+*.tmp
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
